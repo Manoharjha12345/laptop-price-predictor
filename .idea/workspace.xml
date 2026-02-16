@@ -8,9 +8,16 @@
       <change afterPath="$PROJECT_DIR$/.idea/Laptop price.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop-price-predictor.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptop_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pipe.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +79,7 @@
       <workItem from="1771239691165" duration="3333000" />
       <workItem from="1771248150084" duration="517000" />
       <workItem from="1771257117282" duration="150000" />
+      <workItem from="1771257403393" duration="415000" />
     </task>
     <servers />
   </component>
